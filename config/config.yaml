@@ -1,0 +1,9 @@
+database:
+  user: postgres
+  password: password
+  host: db
+  port: 5432
+  name: wiki_db
+
+scraping:
+  url: "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
